@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Marina\source\repos\astra_l2\Source.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Marina\source\repos\astra_l2\Source.cpp(20,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Marina\source\repos\astra_l2\Source.cpp(101,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Marina\source\repos\astra_l2\Source.cpp(144,16): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Marina\source\repos\astra_l2\Source.cpp(147,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Marina\source\repos\astra_l2\Source.cpp(159,16): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\Marina\source\repos\astra_l2\Source.cpp(162,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  astra_l2.vcxproj -> C:\Users\Marina\source\repos\astra_l2\Debug\astra_l2.exe
