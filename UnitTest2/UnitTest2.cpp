@@ -65,7 +65,7 @@ namespace UnitTest2
 			}
 			Assert::IsTrue(is_sorted(Array_char, 10));
 		}
-		TEST_METHOD(BinarySearch_Array_is_not)
+		TEST_METHOD(BinarySearch_Array_is_not_sorted)
 		{
 			for (int i = 0; i < 10; i++) {
 				Array[i] = i;
